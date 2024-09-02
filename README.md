@@ -60,7 +60,7 @@ This is a Flask web application for object detection and classification using YO
 
 1. Run the Flask application:
     ```sh
-    python app.py
+    python3 app.py
     ```
 
 3. Open your web browser and go to `http://127.0.0.1:5000`.
