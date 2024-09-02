@@ -43,7 +43,7 @@ This is a Flask web application for object detection and classification using YO
     cd ..
     ```
 
-5. Place your `best_inceptionv3_model_no_overfitting.h5` model in the root directory.
+5. Place the `best_inceptionv3_model_no_overfitting.h5` model in the root directory, you can download it from here: https://drive.google.com/file/d/1AShgeTsMz-uCuTRGvdT67wEAxYzYyH53/view?usp=sharing
 
 
 6. Download 'yolov5x.pt' and place it inside yolov5 directory
