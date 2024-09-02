@@ -59,12 +59,13 @@ This is a Flask web application for object detection and classification using YO
 ## Usage
 
 1. Run the Flask application:
-    python3 app.py
+    ```sh
+    python app.py
     ```
 
-2. Open your web browser and go to `http://127.0.0.1:5000`.
+3. Open your web browser and go to `http://127.0.0.1:5000`.
 
-3. Upload an image to perform object detection and classification.
+4. Upload an image to perform object detection and classification.
 
 ## File Structure
 
