@@ -1,0 +1,8 @@
+names:
+- car
+- bus
+- truck
+nc: 3
+test: /home/carla/Downloads/Vehicles-coco.v2i.tensorflow/yolo_dataset/test/images
+train: /home/carla/Downloads/Vehicles-coco.v2i.tensorflow/yolo_dataset/train/images
+val: /home/carla/Downloads/Vehicles-coco.v2i.tensorflow/yolo_dataset/valid/images
