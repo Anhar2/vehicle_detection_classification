@@ -1,4 +1,4 @@
-# Flask Object Detection and Classification App
+# Flask Vehicle Detection and Classification App
 
 This is a Flask web application for object detection and classification using YOLOv5 and InceptionV3 models.
 
